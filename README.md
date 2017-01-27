@@ -1,2 +1,2 @@
 # webApiVersionUrlPath
-A sample to display how to version your web api using Url path segment
+Please see explaination of code on http://beginloop.com/2017/01/27/web-api-versioning-using-url-path-in-asp-net/
